@@ -1,0 +1,23 @@
+{
+  "name": "exp",
+  "version": "0.0.0",
+  "authors": [
+    "ERPedersen <emil0srp@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "font-awesome": "~4.5.0"
+  }
+}

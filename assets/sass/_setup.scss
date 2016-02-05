@@ -1,0 +1,61 @@
+// Brand Colors
+$brand-primary:                       #ce3737;
+
+// Page
+$link-hover-decoration:               none;
+$body-bg:                             #fff;
+$text-color:                          #333;
+$border-radius-base:                  0;
+$border-radius-large:                 0;
+$border-radius-small:                 0;
+
+// Typography
+$font-family-base:                    "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-size-base:                      14px;
+
+$headings-font-family:                "Helvetica Neue", Helvetica, Arial, sans-serif;
+$headings-font-weight:                500;
+$headings-line-height:                1.1;
+$headings-color:                      $text-color;
+
+// Navbar
+$navbar-height:                       60px;
+$navbar-margin-bottom:                0;
+
+// Navbar default
+$navbar-default-color:                $brand-primary;
+$navbar-default-bg:                   #f7f7f7;
+$navbar-default-border:               darken($navbar-default-bg, 3%);
+
+$navbar-default-link-color:           $brand-primary;
+$navbar-default-link-hover-color:     $brand-primary;
+$navbar-default-link-hover-bg:        transparent;
+$navbar-default-link-active-color:    $navbar-default-link-color;
+$navbar-default-link-active-bg:       darken($navbar-default-bg, 3%);
+
+$navbar-default-brand-color:          $navbar-default-link-color;
+$navbar-default-brand-hover-color:    $brand-primary;
+$navbar-default-brand-hover-bg:       transparent;
+
+$navbar-default-toggle-hover-bg:      transparent;
+$navbar-default-toggle-icon-bar-bg:   $brand-primary;
+$navbar-default-toggle-border-color:  transparent;
+
+// Navbar inverse
+$navbar-inverse-color:                #fff;
+$navbar-inverse-bg:                   $brand-primary;
+$navbar-inverse-border:               darken($navbar-inverse-bg, 10%);
+
+$navbar-inverse-link-color:           #fff;
+$navbar-inverse-link-hover-color:     #fff;
+$navbar-inverse-link-hover-bg:        transparent;
+$navbar-inverse-link-active-color:    $navbar-inverse-link-hover-color;
+$navbar-inverse-link-active-bg:       darken($navbar-inverse-bg, 10%);
+
+$navbar-inverse-brand-color:          $navbar-inverse-link-color;
+$navbar-inverse-brand-hover-color:    #fff;
+$navbar-inverse-brand-hover-bg:       transparent;
+
+$navbar-inverse-toggle-hover-bg:      transparent;
+$navbar-inverse-toggle-icon-bar-bg:   #fff;
+$navbar-inverse-toggle-border-color:  transparent;
